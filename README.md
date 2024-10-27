@@ -1,15 +1,11 @@
-# BC3: Instacart Market Basket Analysis 
+# Instacart Market Basket Analysis 
 
-**Problem type:** Market Basket Analysis
+## Project Overview
 
-**Submission date:** 12-04-2021 | 11.59pm
-
-## General Context 
-
-Nowadays, understanding the purchasing patterns/behaviors of consumers is a
-key task for any retail company. Identifying the relationships between the
+Nowadays, understanding the purchasing patterns/behaviours of consumers is a
+a key task for any retail company. Identifying the relationships between the
 different types of products, e.g, complementary, substitute, inferior and
-convenience goods, provides the company a wholistic view about its customers
+convenience goods provides the company a wholistic view of its customers
 and the portfolio of products it has to offer.
 
 Specifically, market basket analysis is a data mining technique that is used
@@ -21,7 +17,7 @@ customers.
  
 ## Business Situation 
 
-Instacart is an american company that provides a grocery delivery and pick-up
+Instacart is an American company that provides grocery delivery and pick-up
 service via a website or mobile app in the United States and Canada.
 
 Within their platform, users can select items from a wide portfolio of
@@ -33,7 +29,7 @@ described Instacart as follows:
 > Whether you shop from meticulously planned grocery lists or let whimsy guide
 > your grazing, our unique food rituals define who we are. Instacart, a
 > grocery ordering and delivery app, aims to make it easy to fill your
-> refrigerator and pantry with your personal favorites and staples when you
+> refrigerator and pantry with your personal favourites and staples when you
 > need them. After selecting products through the Instacart app, personal
 > shoppers review your order and do the in-store shopping and delivery for
 > you.
