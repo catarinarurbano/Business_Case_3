@@ -112,8 +112,7 @@ product_id,department_id,product_name
 You should aim to provide an overview of Instacart's business as complete as
 possible. Jane is particularly interested in the topics below:
 
-- What are the main types of consumer behavior in the business?
+- What are the main types of consumer behaviour in the business?
 - Which types of products should have an extended amount of product offerings?
 - Which types of products can be seen as substitutes?
 - Which items are complementary?
-"# Business_Case_3" 
